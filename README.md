@@ -6,7 +6,6 @@ Na aplicação WEB, é possível criar anúncios para encontrar parceiros (ou du
 
 Este projeto foi durante o evento **#NLWtogether** promovido pela [Rocketseat](https://www.rocketseat.com.br/) sob a orientação de [Diego Fernandes](https://github.com/diego3g) e [Rodrigo Gonçalves](https://github.com/rodrigorgtic).
 
-- 🪧 Vitrine.Dev
 - ✨ Nome	**NLW eSports** - Rocketseat
 - 🏷️ Tecnologias	React, React Native, TypeScript, Tailwind, Prisma, Radix-UI, Vite, Expo, Axios
 - 🚀 URL	Ainda não disponível

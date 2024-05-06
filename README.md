@@ -40,4 +40,7 @@ The project was totally developed according to the instructions given, no aditio
 - Carousel for scrolling through games, in case we have more games in the database (lib suggested: Keen Slider);
 - Replacing standard select element with Radix-UI Select;
 - Form validation with React Hook Form;
-- Discord authentication, automatically filling the form field for Discord username. 
+- Discord authentication, automatically filling the form field for Discord username.
+
+
+  :)
